@@ -1,0 +1,17 @@
+.navbar {
+  overflow: hidden;
+  margin-top: 0;
+  background-color: rgb(119, 201, 243);
+}
+
+.listNo {
+  list-style-type: none;
+}
+
+.navbar li {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
